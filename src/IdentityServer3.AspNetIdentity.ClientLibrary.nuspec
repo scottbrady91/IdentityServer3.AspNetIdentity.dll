@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Brock Allen, Dominick Baier, Scott Brady</authors>
+    <owners>Brock Allen, Dominick Baier, Scott Brady</owners>
+    <projectUrl>https://github.com/scottbrady91/IdentityServer3.AspNetIdentity.ClientLibrary</projectUrl>
+    <iconUrl>https://identityserver.github.io/Documentation/assets/images/icons/IDserver_icon128.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/IdentityServer/IdentityServer3.AspNetIdentity/blob/master/LICENSE</licenseUrl>
+    <summary>ASP.NET Identity support for IdentityServer3 repackaged as a dll client library</summary>
+    <description>ASP.NET Identity support for IdentityServer3 repackaged as a dll client library</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>IdentityServer OpenID Connect OpenIDConnect OAuth2 OWIN ASP.NET Katana WebApi SSO Federation Claims Identity AspNetIdentity Client Library</tags>
+  </metadata>
+</package>
