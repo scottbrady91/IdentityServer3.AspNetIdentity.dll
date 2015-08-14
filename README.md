@@ -1,2 +1,2 @@
-# ASP.NET Identity Support for IdentityServer3
-ASP.NET Identity support for Thinktecture IdentityServer3 repackaged as a dll client library
+# ASP.NET Identity Support for IdentityServer3 - DLL Repackage
+ASP.NET Identity support for Thinktecture IdentityServer3 repackaged as a dll client library, preventing the addition of volatile source code to the destination project.

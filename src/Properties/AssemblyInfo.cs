@@ -1,11 +1,11 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("IdentityServer3.AspNetIdentity.ClientLibrary")]
+[assembly: AssemblyTitle("IdentityServer3.AspNetIdentity.dll")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("scottbrady91")]
-[assembly: AssemblyProduct("IdentityServer3.AspNetIdentity.ClientLibrary")]
+[assembly: AssemblyProduct("IdentityServer3.AspNetIdentity.dll")]
 [assembly: AssemblyCopyright("Copyright © scottbrady91 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

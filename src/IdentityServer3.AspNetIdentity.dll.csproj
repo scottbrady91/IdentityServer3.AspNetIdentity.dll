@@ -7,8 +7,8 @@
     <ProjectGuid>{F168F08C-E4EA-4BB7-89C5-210DC8E5C9B1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>IdentityServer3.AspNetIdentity.ClientLibrary</RootNamespace>
-    <AssemblyName>IdentityServer3.AspNetIdentity.ClientLibrary</AssemblyName>
+    <RootNamespace>IdentityServer3.AspNetIdentity.dll</RootNamespace>
+    <AssemblyName>IdentityServer3.AspNetIdentity.dll</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -60,8 +60,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="IdentityServer3.AspNetIdentity.ClientLibrary.nuspec" />
-    <None Include="packages.config" />
+    <None Include="IdentityServer3.AspNetIdentity.dll.nuspec">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
